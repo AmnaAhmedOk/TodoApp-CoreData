@@ -1,0 +1,6 @@
+framework module Pods_ToRemeberApp {
+  umbrella header "Pods-ToRemeberApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
